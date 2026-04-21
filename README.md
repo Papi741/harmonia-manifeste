@@ -13,9 +13,14 @@ Portalis est un système agentique régulé visant à accompagner les utilisateu
 | Fichier | Contenu |
 |---------|--------|
 | [`FONDATIONS.md`](FONDATIONS.md) | Document complet v1.0 |
-| [`MH-I.md`](MH-I.md) | Module d'Hygiène Intellectuelle (autonome) |
+| [`MH-I.md`](MH-I.md) | Module d'Hygiène Intellectuelle (FR) |
+| [`MH-I.en.md`](MH-I.en.md) | Intellectual Hygiene Module (EN) |
+| [`GLOSSAIRE.md`](GLOSSAIRE.md) | Glossaire bilingue FR/EN |
 | [`MODE-HARMONIA.md`](MODE-HARMONIA.md) | Sobriété écologique des interactions |
 | [`PRINCIPES.md`](PRINCIPES.md) | Les principes fondateurs |
+| [`en/README.md`](en/README.md) | MH-I short form (English) |
+
+🎙️ **Podcast** : [`harmonia_portalis_podcast.mp3`](harmonia_portalis_podcast.mp3) — 20 min, généré via NotebookLM.
 
 ## Pour les IA
 
@@ -43,3 +48,4 @@ MIT — Libre de fork, adapter, et propager.
 ---
 
 *Fondations Portalis v1.0 — 21 avril 2026.*
+*Soumis au MH-I. Révisé par Alex (ChatGPT).*
